@@ -1,0 +1,15 @@
+#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
+
+#########################################################################
+#      ____            _           _   __  __                           #
+#     |  _ \ _ __ ___ (_) ___  ___| |_|  \/  | ___   ___  ___  ___      #
+#     | |_) | '__/ _ \| |/ _ \/ __| __| |\/| |/ _ \ / _ \/ __|/ _ \     #
+#     |  __/| | | (_) | |  __/ (__| |_| |  | | (_) | (_) \__ \  __/     #
+#     |_|   |_|  \___// |\___|\___|\__|_|  |_|\___/ \___/|___/\___|     #
+#                   |__/                                                #
+#                                  >> https://github.com/benmoose39     #
+#########################################################################
+
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" tvg-id="INews", iNews
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1742472212/ei/tK_bZ4_NNMSW1d8PqprtwAE/ip/182.253.9.80/id/Wssop82LUF8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51399978/txs/51399971%2C51399972%2C51399973%2C51399974%2C51399975%2C51399976%2C51399977%2C51399978/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/id/bui/AccgBcP1LHvNF1fmG-Ej5Oy1m_Zu2hTEtDDSR5YWT9dkmnn3ayz6Og3tm5o3hhBRlgfeIgR-bES2Q1Ew/spc/_S3wKkxCOUC989Zi26wTVCxzdTXB62z0tiyGz_B_BiinArndqnjHH5hdJot1Y7X5yHR-wX8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgDXfbB5GPzBNdi0_HkJ5kogssqlqKYgK173R1WeLW1AgCIE5gDMFtkvxEeUks0xQP75IufpY2AWvB-jtnd-ZhFMOp/file/index.m3u8
